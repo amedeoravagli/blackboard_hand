@@ -9,8 +9,8 @@ Blocco 1
 4. Disegnare texture della lavagna
 5. Disegnare pannello degli strumenti : gomma, colore, selezione quadrata tonda e libera, forme base.
 6. Salvataggio della lavagna.
-Blocco 2 
 
+Blocco 2
 1. opzionale: poter copiare e incollare immagini create in tempo reale
 2. verificare la profondità della mano oltre una determinata distanza non deve considerare la mano
 3. modifica dimensione tratto
